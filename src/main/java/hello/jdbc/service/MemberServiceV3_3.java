@@ -3,14 +3,14 @@ package hello.jdbc.service;
 import hello.jdbc.domain.Member;
 import hello.jdbc.repository.MemberRepositoryV3;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.transaction.annotation.Transactional;;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
  * 트랜잭션 - @Transactional Annotation
- * @Transactional
+ * @Transactional - Test Transactional
  */
 
 @Slf4j
