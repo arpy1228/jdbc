@@ -10,6 +10,7 @@ import java.sql.SQLException;
 
 /**
  * 트랜잭션 - @Transactional Annotation
+ * @Transactional
  */
 
 @Slf4j
